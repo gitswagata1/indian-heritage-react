@@ -21,8 +21,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
@@ -36,5 +35,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "A responsive React showcase of India's history, festivals, cuisine and traditional art forms.",
+  "license": "MIT",
+  "author": "Swagata Banerjee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitswagata1/indian-heritage-react.git"
   }
 }

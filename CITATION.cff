@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Indian Heritage"
+abstract: "A responsive React showcase of India's history, festivals, cuisine and traditional art forms."
+type: software
+authors:
+  - family-names: "Banerjee"
+    given-names: "Swagata"
+repository-code: "https://github.com/gitswagata1/indian-heritage-react"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-16"
+keywords:
+  - react
+  - culture
+  - india
+  - education
